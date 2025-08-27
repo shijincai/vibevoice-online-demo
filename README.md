@@ -30,6 +30,13 @@ VibeVoice isn't just another TTS model. It excels at creating human-like, expres
 -   **🌐 Cross-Lingual Synthesis:** Maintains a speaker's vocal identity even when switching languages (e.g., Mandarin to English).
 -   **🔓 Open-Source & Free:** Built on Microsoft's open-source model and offered as a free online TTS tool at vibevoice.info.
 
+<p align="center">
+  <strong>Ready to create your own? Visit our free online AI Voice Generator!</strong><br><br>
+  <a href="https://vibevoice.info" target="_blank" style="text-decoration:none;">
+    <strong>👉 VibeVoice.info 👈</strong>
+  </a>
+</p>
+
 
 ## 💡 Why This Project?
 
