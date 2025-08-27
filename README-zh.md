@@ -30,6 +30,12 @@ VibeVoice 不仅仅是又一个TTS模型，它在生成与真人无异、富有�
 -   **🌐 跨语言语音合成:** 即使在不同语言（如中英）之间切换，也能保持说话人独特的音色。
 -   **🔓 开源且免费:** 基于微软的开源模型，并在 **vibevoice.info** 上提供完全免费的在线TTS工具。
 
+<p align="center">
+  <strong>准备好创建您自己的音频了吗？立即访问我们的免费在线AI语音生成器！</strong><br><br>
+  <a href="https://vibevoice.info" target="_blank" style="text-decoration:none;">
+    <strong>👉 VibeVoice.info 👈</strong>
+  </a>
+</p>
 
 
 ## 💡 项目缘由
